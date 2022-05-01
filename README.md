@@ -1,1 +1,2 @@
-# JDBC-Assignment
+# Java Database Connectivity
+Sample JDBC 
